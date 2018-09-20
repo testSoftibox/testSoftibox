@@ -8,12 +8,7 @@ var version = "1.3.4+HEAD.0e566b2";
 /*
  * @namespace Util
  *
- * Various utility functions, used by Leaflet internally.
- */
-
-var freeze = Object.freeze;
-Object.freeze = function (obj) { return obj; };
-
+ * Various uti
 // @function extend(dest: Object, src?: Object): Object
 // Merges the properties of the `src` object (or multiple objects) into `dest` object and returns the latter. Has an `L.extend` shortcut.
 function extend(dest) {
