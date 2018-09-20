@@ -1,6 +1,6 @@
 test recrutement SOFTIBOX
 =============================================================
-L'objectif du challenge est de voir les points suivants :
+## L'objectif du challenge est de voir les points suivants :
 * Votre niveau en compréhension, analyse / conception
 * Votre manière de coder et la qualité de votre code
 
