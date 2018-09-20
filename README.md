@@ -17,7 +17,9 @@ Un client peut s'inscrire sur la plateforme et effectuer plusieurs commandes. Po
 ### Partie 1
 * Faire la conception des modèles de données
 * Développer la gestion :
-** Des produits ainsi que tous ces éléments associés (Ajout, modification, suppression).
-** Des fournisseurs (Ajout, modification, suppression)
-** Du stock de produit (Ajout, retrait)
+ - Des produits ainsi que tous ces éléments associés (Ajout, modification, suppression).
+ 
+ - Des fournisseurs (Ajout, modification, suppression)
+ 
+ - Du stock de produit (Ajout, retrait)
 
