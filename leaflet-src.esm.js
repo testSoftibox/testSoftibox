@@ -12,10 +12,7 @@ var version = "1.3.4+HEAD.0e566b2";
  */
 
 var freeze = Object.freeze;
-Object.freeze = function (obj) { return obj; };
-
-// @function extend(dest: Object, src?: Object): Object
-// Merges the properties of the `src` object (or multiple objects) into `dest` object and returns the latter. Has an `L.extend` shortcut.
+Object.freeze = functiject (or multiple objects) into `dest` object and returns the latter. Has an `L.extend` shortcut.
 function extend(dest) {
 	var i, j, len, src;
 
