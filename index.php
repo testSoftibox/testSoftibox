@@ -3,7 +3,7 @@
 <head>
 	<title></title>
 	<style>
-		#mapid { height: 600px; }
+		#mapid { height: 1600px; }
 	</style>
 	<link rel="stylesheet" href="leaflet.css"
    />
