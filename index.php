@@ -12,7 +12,7 @@
 
 </head>
 <body>
-    <h2>Voici le titre de la modification</h2>
+    <h2>Voici le titre de la modification de tous </h2>
 	<div id="mapid">
 		
 	</div>
