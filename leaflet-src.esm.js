@@ -3,7 +3,7 @@
  * (c) 2010-2018 Vladimir Agafonkin, (c) 2010-2011 CloudMade
  */
 
-var version = "1.3.4+HEAD.0e566b2";
+
 
 /*
  * @namespace Util
