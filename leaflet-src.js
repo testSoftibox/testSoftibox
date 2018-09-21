@@ -11768,6 +11768,11 @@ var TileLayerWMS = TileLayer.extend({
 });
 
 
+<<<<<<< HEAD
+})));
+//# sourceMappingURL=leaflet-src.js.mapd
+//ceci est un commentaire anthony
+=======
 // @factory L.tileLayer.wms(baseUrl: String, options: TileLayer.WMS options)
 // Instantiates a WMS tile layer object given a base URL of the WMS service and a WMS parameters/options object.
 function tileLayerWMS(url, options) {
@@ -13868,3 +13873,4 @@ window.L = exports;
 
 })));
 //# sourceMappingURL=leaflet-src.js.map
+>>>>>>> 9ee4e07fcf8b1faa1f21cfc6e5b77e9ce91bd4b4
